@@ -1,0 +1,14 @@
+C:\Users\ASUS\source\repos\ConditionTasks\bin\Debug\net8.0\ConditionTasks.exe
+C:\Users\ASUS\source\repos\ConditionTasks\bin\Debug\net8.0\ConditionTasks.deps.json
+C:\Users\ASUS\source\repos\ConditionTasks\bin\Debug\net8.0\ConditionTasks.runtimeconfig.json
+C:\Users\ASUS\source\repos\ConditionTasks\bin\Debug\net8.0\ConditionTasks.dll
+C:\Users\ASUS\source\repos\ConditionTasks\bin\Debug\net8.0\ConditionTasks.pdb
+C:\Users\ASUS\source\repos\ConditionTasks\obj\Debug\net8.0\ConditionTasks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\ConditionTasks\obj\Debug\net8.0\ConditionTasks.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\ConditionTasks\obj\Debug\net8.0\ConditionTasks.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\ConditionTasks\obj\Debug\net8.0\ConditionTasks.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\ConditionTasks\obj\Debug\net8.0\ConditionTasks.dll
+C:\Users\ASUS\source\repos\ConditionTasks\obj\Debug\net8.0\refint\ConditionTasks.dll
+C:\Users\ASUS\source\repos\ConditionTasks\obj\Debug\net8.0\ConditionTasks.pdb
+C:\Users\ASUS\source\repos\ConditionTasks\obj\Debug\net8.0\ConditionTasks.genruntimeconfig.cache
+C:\Users\ASUS\source\repos\ConditionTasks\obj\Debug\net8.0\ref\ConditionTasks.dll
